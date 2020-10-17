@@ -54,7 +54,7 @@
 .sb-chat-list {
     flex: 1;
     background: #fff;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 .sidebar-chat-list-item{
@@ -75,5 +75,6 @@
 
 .sb-chat-info {
     margin-left: 15px;
-    
+
 }
+
